@@ -1,9 +1,5 @@
 
----
 
-### 49. **Tools_and_Techniques/Metasploit.md**
-
-```markdown
 # Metasploit
 
 ## Overview
