@@ -1,9 +1,5 @@
 
----
 
-### 6. **Reconnaissance/Active_Recon/Service_Enumeration.md**
-
-```markdown
 # Service Enumeration
 
 ## Overview
