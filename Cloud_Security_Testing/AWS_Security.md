@@ -1,7 +1,6 @@
----
+
 ### 41. **Cloud_Security_Testing/AWS_Security.md**
 
-```markdown
 # AWS Security
 
 ## Overview
