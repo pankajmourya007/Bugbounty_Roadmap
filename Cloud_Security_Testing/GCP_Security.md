@@ -1,9 +1,5 @@
 
----
 
-### 43. **Cloud_Security_Testing/GCP_Security.md**
-
-```markdown
 # GCP Security
 
 ## Overview
