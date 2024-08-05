@@ -1,9 +1,5 @@
 
----
 
-### 19. **Web_Application_Testing/Cross_Site_Scripting/Overview.md**
-
-```markdown
 # Cross-Site Scripting (XSS) Overview
 
 ## Overview
