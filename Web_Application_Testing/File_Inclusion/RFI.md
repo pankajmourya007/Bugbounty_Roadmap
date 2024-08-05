@@ -1,9 +1,5 @@
 
----
 
-### 25. **Web_Application_Testing/File_Inclusion/RFI.md**
-
-```markdown
 # Remote File Inclusion (RFI)
 
 ## Overview
