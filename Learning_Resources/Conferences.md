@@ -1,9 +1,4 @@
 
----
-
-### 63. **Learning_Resources/Conferences.md**
-
-```markdown
 # Conferences
 
 ## Overview
