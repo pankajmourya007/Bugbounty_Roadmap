@@ -1,7 +1,5 @@
----
-### 14. **Web_Application_Testing/OWASP_Top_10/Cross_Site_Scripting.md**
 
-```markdown
+
  # Cross-Site Scripting (XSS)
 
 ## Overview
