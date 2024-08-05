@@ -1,9 +1,5 @@
 
----
 
-### 17. **Web_Application_Testing/SQL_Injection/Error_Based.md**
-
-```markdown
 # Error-Based SQL Injection
 
 ## Overview
