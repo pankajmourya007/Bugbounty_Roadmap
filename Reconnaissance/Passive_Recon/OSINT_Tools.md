@@ -1,9 +1,4 @@
 
----
-
-### 4. **Reconnaissance/Passive_Recon/OSINT_Tools.md**
-
-```markdown
 # OSINT Tools
 
 ## Overview
