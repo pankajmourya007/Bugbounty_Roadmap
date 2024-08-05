@@ -1,9 +1,4 @@
 
----
-
-### 46. **Tools_and_Techniques/Burp_Suite/Extensions.md**
-
-```markdown
 # Burp Suite Extensions
 
 ## Overview
