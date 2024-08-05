@@ -1,9 +1,5 @@
 
----
 
-### 48. **Tools_and_Techniques/Nmap.md**
-
-```markdown
 # Nmap
 
 ## Overview
