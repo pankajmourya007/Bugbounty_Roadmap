@@ -1,9 +1,4 @@
 
----
-
-### 29. **Mobile_Application_Testing/Android_Testing/Static_Analysis.md**
-
-```markdown
 # Static Analysis
 
 ## Overview
