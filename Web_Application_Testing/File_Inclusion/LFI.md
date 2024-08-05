@@ -1,9 +1,4 @@
 
----
-
-### 24. **Web_Application_Testing/File_Inclusion/LFI.md**
-
-```markdown
 # Local File Inclusion (LFI)
 
 ## Overview
