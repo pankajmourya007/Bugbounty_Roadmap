@@ -1,9 +1,4 @@
 
----
-
-### 32. **Mobile_Application_Testing/Android_Testing/Common_Vulnerabilities.md**
-
-```markdown
 # Common Vulnerabilities
 
 ## Overview
