@@ -1,7 +1,4 @@
---- 
-### 60. **Learning_Resources/Books.md**
 
-```markdown
 # Books
 
 ## Overview
