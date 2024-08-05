@@ -1,9 +1,4 @@
 
----
-
-### 8. **Reconnaissance/Active_Recon/Directory_Bruteforcing.md**
-
-```markdown
 # Directory Bruteforcing
 
 ## Overview
