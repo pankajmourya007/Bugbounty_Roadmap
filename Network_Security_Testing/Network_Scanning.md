@@ -1,9 +1,5 @@
 
----
 
-### 37. **Network_Security_Testing/Network_Scanning.md**
-
-```markdown
 # Network Scanning
 
 ## Overview
