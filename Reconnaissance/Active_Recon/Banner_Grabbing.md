@@ -1,9 +1,4 @@
 
----
-
-### 7. **Reconnaissance/Active_Recon/Banner_Grabbing.md**
-
-```markdown
 # Banner Grabbing
 
 ## Overview
