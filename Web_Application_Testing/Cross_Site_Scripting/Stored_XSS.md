@@ -1,9 +1,5 @@
 
----
 
-### 20. **Web_Application_Testing/Cross_Site_Scripting/Stored_XSS.md**
-
-```markdown
 # Stored Cross-Site Scripting (XSS)
 
 ## Overview
