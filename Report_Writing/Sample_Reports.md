@@ -1,6 +1,4 @@
----
-### 59. **Report_Writing/Sample_Reports.md**
-```markdown
+
 # Sample Reports
 
 ## Overview
