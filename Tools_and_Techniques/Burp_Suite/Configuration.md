@@ -1,6 +1,4 @@
---- 
-### 45. **Tools_and_Techniques/Burp_Suite/Configuration.md**
-```markdown
+
 # Burp Suite Configuration
 
 ## Overview
