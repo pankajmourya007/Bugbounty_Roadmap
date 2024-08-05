@@ -1,9 +1,5 @@
 
----
 
-### 51. **Tools_and_Techniques/Gobuster.md**
-
-```markdown
 # Gobuster
 
 ## Overview
