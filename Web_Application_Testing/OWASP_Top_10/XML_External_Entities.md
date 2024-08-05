@@ -1,7 +1,5 @@
---- 
-### **12. Web_Application_Testing/OWASP_Top_10/XML_External_Entities.md**
 
-```markdown
+
 
 # XML External Entities (XXE)
 
