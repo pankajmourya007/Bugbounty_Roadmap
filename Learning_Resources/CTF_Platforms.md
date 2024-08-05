@@ -1,9 +1,5 @@
 
----
 
-### 64. **Learning_Resources/CTF_Platforms.md**
-
-```markdown
 # CTF Platforms
 
 ## Overview
