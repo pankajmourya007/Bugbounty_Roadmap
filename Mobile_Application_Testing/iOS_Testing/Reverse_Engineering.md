@@ -1,9 +1,4 @@
 
----
-
-### 35. **Mobile_Application_Testing/iOS_Testing/Reverse_Engineering.md**
-
-```markdown
 # Reverse Engineering
 
 ## Overview
