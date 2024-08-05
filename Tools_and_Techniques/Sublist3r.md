@@ -1,9 +1,5 @@
 
----
 
-### 52. **Tools_and_Techniques/Sublist3r.md**
-
-```markdown
 # Sublist3r
 
 ## Overview
