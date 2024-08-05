@@ -1,5 +1,5 @@
 
-### 2. **Reconnaissance/Passive_Recon/WHOIS_Lookups.md**
+
 
 
 # WHOIS Lookups
