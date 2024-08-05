@@ -29,8 +29,8 @@ The authors and contributors of this repository are not responsible for any misu
 
 If you are uncertain about the legality or ethics of a particular action, seek professional legal advice and consult with experienced security professionals.
 
-
-# Bug Bounty Roadmap
+#
+# Roadmap
 
 Welcome to the Bug Bounty Roadmap repository! This repository contains a comprehensive guide for bug bounty hunters, organized into various categories with detailed `.md` files.
 
