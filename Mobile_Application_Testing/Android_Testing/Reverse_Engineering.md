@@ -1,9 +1,4 @@
 
----
-
-### 31. **Mobile_Application_Testing/Android_Testing/Reverse_Engineering.md**
-
-```markdown
 # Reverse Engineering
 
 ## Overview
