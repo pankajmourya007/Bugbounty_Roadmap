@@ -1,9 +1,4 @@
 
----
-
-### 34. **Mobile_Application_Testing/iOS_Testing/Dynamic_Analysis.md**
-
-```markdown
 # Dynamic Analysis
 
 ## Overview
