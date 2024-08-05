@@ -1,9 +1,5 @@
 
----
 
-### 23. **Web_Application_Testing/Remote_Code_Execution.md**
-
-```markdown
 # Remote Code Execution (RCE)
 
 ## Overview
