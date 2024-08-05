@@ -1,9 +1,4 @@
 
----
-
-### 47. **Tools_and_Techniques/Burp_Suite/Common_Use_Cases.md**
-
-```markdown
 # Common Use Cases for Burp Suite
 
 ## Overview
