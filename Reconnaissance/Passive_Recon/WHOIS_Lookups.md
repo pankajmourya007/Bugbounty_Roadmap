@@ -1,8 +1,7 @@
----
 
 ### 2. **Reconnaissance/Passive_Recon/WHOIS_Lookups.md**
 
-```markdown
+
 # WHOIS Lookups
 
 ## Overview
