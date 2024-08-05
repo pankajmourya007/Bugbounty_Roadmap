@@ -1,0 +1,19 @@
+---
+### 11. **Web_Application_Testing/OWASP_Top_10/Sensitive_Data_Exposure.md**
+
+```markdown
+# Sensitive Data Exposure
+
+## Overview
+Sensitive data exposure occurs when sensitive information (e.g., passwords, credit card numbers) is exposed due to insufficient protection.
+
+## Types
+- **Insecure Storage** - Storing sensitive data without encryption.
+- **Insecure Transmission** - Transmitting data over insecure channels.
+
+## Example
+Sensitive data exposed in URLs or logs.
+
+## References
+- [OWASP Sensitive Data Exposure](https://owasp.org/www-community/vulnerabilities/Sensitive_Data_Exposure)
+
