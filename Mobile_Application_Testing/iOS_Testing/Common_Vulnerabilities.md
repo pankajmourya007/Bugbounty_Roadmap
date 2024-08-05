@@ -1,9 +1,4 @@
 
----
-
-### 36. **Mobile_Application_Testing/iOS_Testing/Common_Vulnerabilities.md**
-
-```markdown
 # Common Vulnerabilities
 
 ## Overview
