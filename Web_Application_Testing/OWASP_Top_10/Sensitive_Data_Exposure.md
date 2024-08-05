@@ -1,7 +1,5 @@
----
-### 11. **Web_Application_Testing/OWASP_Top_10/Sensitive_Data_Exposure.md**
 
-```markdown
+
 # Sensitive Data Exposure
 
 ## Overview

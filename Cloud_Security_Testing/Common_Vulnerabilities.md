@@ -1,9 +1,5 @@
 
----
 
-### 44. **Cloud_Security_Testing/Common_Vulnerabilities.md**
-
-```markdown
 # Common Cloud Security Vulnerabilities
 
 ## Overview

@@ -1,9 +1,4 @@
 
----
-
-### 33. **Mobile_Application_Testing/iOS_Testing/Static_Analysis.md**
-
-```markdown
 # Static Analysis
 
 ## Overview

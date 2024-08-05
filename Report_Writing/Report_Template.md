@@ -1,7 +1,4 @@
----
-### 55. **Report_Writing/Report_Template.md**
 
-```markdown
 # Report Template
 
 ## Overview

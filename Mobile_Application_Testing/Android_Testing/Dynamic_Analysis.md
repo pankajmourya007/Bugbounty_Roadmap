@@ -1,9 +1,4 @@
 
----
-
-### 30. **Mobile_Application_Testing/Android_Testing/Dynamic_Analysis.md**
-
-```markdown
 # Dynamic Analysis
 
 ## Overview

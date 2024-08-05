@@ -1,9 +1,5 @@
 
----
 
-### 15. **Web_Application_Testing/SQL_Injection/Overview.md**
-
-```markdown
 # SQL Injection
 
 ## Overview

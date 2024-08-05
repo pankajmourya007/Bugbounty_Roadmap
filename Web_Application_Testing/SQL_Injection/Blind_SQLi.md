@@ -1,9 +1,5 @@
 
----
 
-### 18. **Web_Application_Testing/SQL_Injection/Blind_SQLi.md**
-
-```markdown
 # Blind SQL Injection
 
 ## Overview

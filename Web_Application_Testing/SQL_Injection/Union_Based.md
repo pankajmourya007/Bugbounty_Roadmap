@@ -1,9 +1,5 @@
 
----
 
-### 16. **Web_Application_Testing/SQL_Injection/Union_Based.md**
-
-```markdown
 # Union-Based SQL Injection
 
 ## Overview

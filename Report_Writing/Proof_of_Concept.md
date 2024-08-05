@@ -1,6 +1,4 @@
----
-### 57. **Report_Writing/Proof_of_Concept.md**
-```markdown
+
 # Proof of Concept
 
 ## Overview

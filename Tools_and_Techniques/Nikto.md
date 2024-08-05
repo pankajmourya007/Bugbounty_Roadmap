@@ -1,9 +1,5 @@
 
----
 
-### 50. **Tools_and_Techniques/Nikto.md**
-
-```markdown
 # Nikto
 
 ## Overview

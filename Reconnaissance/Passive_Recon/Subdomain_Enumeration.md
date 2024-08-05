@@ -1,9 +1,6 @@
 
----
 
-### 3. **Reconnaissance/Passive_Recon/Subdomain_Enumeration.md**
 
-```markdown
 # Subdomain Enumeration
 
 ## Overview

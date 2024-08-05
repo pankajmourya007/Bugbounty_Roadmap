@@ -1,9 +1,5 @@
 
----
 
-### 13. **Web_Application_Testing/OWASP_Top_10/Broken_Access_Control.md**
-
-```markdown
 # Broken Access Control
 
 ## Overview

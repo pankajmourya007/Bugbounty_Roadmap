@@ -1,9 +1,5 @@
 
----
 
-### 26. **Web_Application_Testing/Business_Logic_Flaws.md**
-
-```markdown
 # Business Logic Flaws
 
 ## Overview

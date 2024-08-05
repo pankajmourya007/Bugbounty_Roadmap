@@ -1,9 +1,5 @@
 
----
 
-### 53. **Tools_and_Techniques/ReconNG.md**
-
-```markdown
 # ReconNG
 
 ## Overview

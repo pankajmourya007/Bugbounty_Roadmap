@@ -1,9 +1,5 @@
 
----
 
-### 10. **Web_Application_Testing/OWASP_Top_10/Broken_Authentication.md**
-
-```markdown
 # Broken Authentication
 
 ## Overview

@@ -1,9 +1,4 @@
 
----
-
-### 5. **Reconnaissance/Active_Recon/Port_Scanning.md**
-
-```markdown
 # Port Scanning
 
 ## Overview

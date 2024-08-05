@@ -1,9 +1,5 @@
 
----
 
-### 9. **Web_Application_Testing/OWASP_Top_10/Injection.md**
-
-```markdown
 # Injection
 
 ## Overview

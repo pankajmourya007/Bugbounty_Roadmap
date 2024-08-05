@@ -1,9 +1,4 @@
 
----
-
-### 42. **Cloud_Security_Testing/Azure_Security.md**
-
-```markdown
 # Azure Security
 
 ## Overview

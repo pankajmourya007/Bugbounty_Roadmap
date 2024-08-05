@@ -1,9 +1,5 @@
 
----
 
-### 21. **Web_Application_Testing/Cross_Site_Scripting/Reflected_XSS.md**
-
-```markdown
 # Reflected Cross-Site Scripting (XSS)
 
 ## Overview

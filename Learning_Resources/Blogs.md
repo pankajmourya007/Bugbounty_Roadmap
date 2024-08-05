@@ -1,9 +1,5 @@
 
----
 
-### 61. **Learning_Resources/Blogs.md**
-
-```markdown
 # Blogs
 
 ## Overview
