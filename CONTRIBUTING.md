@@ -20,5 +20,5 @@ We welcome contributions in the form of pull requests. Here’s how you can subm
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Bugbounty_Roadmap.git
+   git clone https://github.com/pankajmourya007/Bugbounty_Roadmap.git
    cd Bugbounty_Roadmap
