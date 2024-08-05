@@ -1,9 +1,5 @@
 
----
 
-### 22. **Web_Application_Testing/Cross_Site_Scripting/DOM_Based_XSS.md**
-
-```markdown
 # DOM-Based Cross-Site Scripting (XSS)
 
 ## Overview
