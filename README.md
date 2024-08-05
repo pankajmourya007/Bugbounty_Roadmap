@@ -1,3 +1,35 @@
+# Bugbounty Roadmap
+
+## About
+
+Welcome to the Bugbounty Roadmap! This repository is a comprehensive guide designed to help individuals navigate through the various stages of bug bounty hunting. Whether you're a beginner looking to get started or an experienced hunter seeking to refine your skills, this roadmap provides detailed information and resources for each step of the process.
+
+The roadmap is organized into the following sections:
+- **Reconnaissance**: Techniques for gathering information about your target.
+- **Web Application Testing**: Methods for identifying vulnerabilities in web applications.
+- **Mobile Application Testing**: Strategies for testing mobile applications on Android and iOS platforms.
+- **Network Security Testing**: Procedures for assessing network security.
+- **Cloud Security Testing**: Approaches for evaluating the security of cloud environments.
+- **Tools and Techniques**: An overview of essential tools and techniques used in bug bounty hunting.
+- **Report Writing**: Guidelines for creating comprehensive and effective security assessment reports.
+- **Learning Resources**: A collection of books, blogs, courses, conferences, and CTF platforms to further your knowledge.
+
+We hope this roadmap serves as a valuable resource for your bug bounty journey. Happy hunting!
+
+## Disclaimer
+
+The content provided in this repository is for educational purposes only. The techniques, tools, and methodologies described are intended to be used in authorized security testing and research environments. Unauthorized testing against systems you do not own or do not have explicit permission to test is illegal and unethical.
+
+By using the information in this repository, you agree that you understand and comply with the following:
+- You will not use any of the information to attack systems without prior consent.
+- You will take full responsibility for any actions performed using the information provided.
+- You will use the information to enhance security and contribute positively to the security community.
+
+The authors and contributors of this repository are not responsible for any misuse of the information contained herein. Always follow legal and ethical guidelines when conducting security testing.
+
+If you are uncertain about the legality or ethics of a particular action, seek professional legal advice and consult with experienced security professionals.
+
+
 # Bug Bounty Roadmap
 
 Welcome to the Bug Bounty Roadmap repository! This repository contains a comprehensive guide for bug bounty hunters, organized into various categories with detailed `.md` files.
