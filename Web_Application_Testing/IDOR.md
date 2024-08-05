@@ -1,7 +1,5 @@
----
-### 27. **Web_Application_Testing/IDOR.md**
 
-```markdown
+
 # Insecure Direct Object References (IDOR)
 
 ## Overview
