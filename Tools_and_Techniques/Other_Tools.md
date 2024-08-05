@@ -1,9 +1,5 @@
 
----
 
-### 54. **Tools_and_Techniques/Other_Tools.md**
-
-```markdown
 # Other Tools
 
 ## Overview
